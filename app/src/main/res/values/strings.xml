@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WalkThrought</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">Get started</string>
+    <string name="title_activity_start_screen">StartScreenActivity</string>
+    <string name="intro_slide1_title">hi</string>
+</resources>
